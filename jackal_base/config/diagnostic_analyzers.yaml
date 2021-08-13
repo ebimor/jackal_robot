@@ -1,3 +1,4 @@
+pub_rate: 10.0
 analyzers:
   jackal:
     type: diagnostic_aggregator/AnalyzerGroup
